@@ -1,0 +1,52 @@
+2024-03-01 18:41:17.586 [info] Extension host with pid 13473 started
+2024-03-01 18:41:17.614 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 18:41:17.617 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 18:41:17.629 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-01 18:41:17.693 [info] Eager extensions activated
+2024-03-01 18:41:17.723 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.725 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.729 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.731 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.750 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.758 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:17.765 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:52.144 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-01 18:41:52.147 [info] Extension host with pid 13473 exiting with code 0
+2024-03-01 18:41:52.868 [info] Extension host with pid 13673 started
+2024-03-01 18:41:52.869 [info] Skipping acquiring lock for /home/mrv/.config/Code/User/workspaceStorage/9b39e438b0bc9c0d49fa66aa334b7474.
+2024-03-01 18:41:52.909 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 18:41:52.928 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 18:41:52.943 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-01 18:41:53.000 [info] Eager extensions activated
+2024-03-01 18:41:53.021 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.023 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.028 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.030 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.047 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.054 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:41:53.057 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:47:48.897 [info] ExtensionService#_doActivateExtension ms-vscode.remote-repositories, startup: false, activationEvent: 'onCommand:remoteHub.continueOn.openRepository'
+2024-03-01 18:47:48.956 [info] ExtensionService#_doActivateExtension GitHub.remotehub, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2024-03-01 18:47:49.009 [info] ExtensionService#_doActivateExtension ms-vscode.azure-repos, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2024-03-01 18:47:56.617 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-01 18:48:14.151 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 18:50:15.896 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-01 18:50:15.913 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-01 18:51:02.870 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-01 18:51:02.920 [info] Extension host with pid 13673 exiting with code 0
+2024-03-01 18:51:06.184 [info] Extension host with pid 65577 started
+2024-03-01 18:51:06.184 [info] Skipping acquiring lock for /home/mrv/.config/Code/User/workspaceStorage/79bb59ffd0684f402561c6ff0cbf0e50.
+2024-03-01 18:51:06.495 [info] ExtensionService#_doActivateExtension ms-vscode.remote-repositories, startup: false, activationEvent: 'onFileSystem:vscode-vfs'
+2024-03-01 18:51:06.751 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 18:51:06.754 [info] ExtensionService#_doActivateExtension GitHub.remotehub, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2024-03-01 18:51:06.827 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 18:51:06.930 [info] Eager extensions activated
+2024-03-01 18:51:06.931 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-01 18:51:06.999 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:51:07.016 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:51:07.022 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:51:07.084 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:51:07.965 [error] Error: ENOENT: no such file or directory, scandir '/Raphael-08/test'
+2024-03-01 18:52:00.126 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 18:54:50.446 [info] ExtensionService#_doActivateExtension ms-vscode.azure-repos, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2024-03-01 18:56:19.947 [info] ExtensionService#_doActivateExtension pomber.git-file-history, startup: false, activationEvent: 'onCommand:extension.git-file-history'

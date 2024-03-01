@@ -1,0 +1,6 @@
+2024-03-01 18:47:49.037 [warning] Running on the desktop; workspaceId=9b39e438b0bc9c0d49fa66aa334b7474; storageUri=vscode-userdata:/home/mrv/.config/Code/User/globalStorage/ms-vscode.azure-repos
+2024-03-01 18:47:49.037 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-03-01 18:47:49.037 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms
+2024-03-01 18:54:50.461 [warning] Running on the desktop; workspaceId=79bb59ffd0684f402561c6ff0cbf0e50; storageUri=vscode-userdata:/home/mrv/.config/Code/User/globalStorage/ms-vscode.azure-repos
+2024-03-01 18:54:50.461 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-03-01 18:54:50.461 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms

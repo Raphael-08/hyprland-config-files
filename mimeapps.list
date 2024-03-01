@@ -1,0 +1,4 @@
+[Added Associations]
+application/json=code.desktop;
+image/png=org.gnome.eog.desktop;
+text/x-csrc=code.desktop;

@@ -1,0 +1,15 @@
+{
+    "version": "1.9.7",
+    "drawerStates": {
+        "settings": {
+            "customcss": true,
+            "developer": false,
+            "window": true
+        }
+    },
+    "addonlistControls": {
+        "theme": {
+            "view": "list"
+        }
+    }
+}

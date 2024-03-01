@@ -1,0 +1,15 @@
+2024/02/22-17:25:08.553 fb3 Reusing MANIFEST /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/22-17:25:08.553 fb3 Recovering log #4
+2024/02/22-17:25:08.553 fb3 Reusing old log /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000004.log 
+2024/02/22-19:59:30.545 fb4 Level-0 table #8: started
+2024/02/22-19:59:30.548 fb4 Level-0 table #8: 190 bytes OK
+2024/02/22-19:59:30.553 fb4 Delete type=0 #4
+2024/02/22-19:59:30.554 fb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/22-19:59:30.555 fb4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 678 : 1
+2024/02/22-19:59:30.555 fb4 Compacting 1@1 + 1@2 files
+2024/02/22-19:59:30.560 fb4 Generated table #9@1: 206 keys, 3139 bytes
+2024/02/22-19:59:30.560 fb4 Compacted 1@1 + 1@2 files => 3139 bytes
+2024/02/22-19:59:30.563 fb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/22-19:59:30.563 fb4 Delete type=2 #8
+2024/02/22-19:59:30.563 fb4 Delete type=2 #5
+2024/02/22-19:59:30.564 fb4 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 678 : 1 .. (end); will stop at (end)

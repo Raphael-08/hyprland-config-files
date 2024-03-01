@@ -1,0 +1,18 @@
+2024/02/22-18:22:07.191 fb3 Creating DB /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb since it was missing.
+2024/02/22-18:22:07.193 fb3 Reusing MANIFEST /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.kaggle.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/22-18:22:07.230 fb3 Level-0 table #5: started
+2024/02/22-18:22:07.231 fb3 Level-0 table #5: 1265 bytes OK
+2024/02/22-18:22:07.232 fb3 Delete type=0 #3
+2024/02/22-18:22:07.232 fb3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/02/22-18:23:06.310 fb4 Level-0 table #7: started
+2024/02/22-18:23:06.315 fb4 Level-0 table #7: 3625 bytes OK
+2024/02/22-18:23:06.319 fb4 Delete type=0 #4
+2024/02/22-18:23:06.320 fb4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/02/22-18:23:06.320 fb4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 122 : 1
+2024/02/22-18:23:06.320 fb4 Compacting 1@1 + 1@2 files
+2024/02/22-18:23:06.323 fb4 Generated table #8@1: 36 keys, 2453 bytes
+2024/02/22-18:23:06.324 fb4 Compacted 1@1 + 1@2 files => 2453 bytes
+2024/02/22-18:23:06.329 fb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/22-18:23:06.329 fb4 Delete type=2 #5
+2024/02/22-18:23:06.329 fb4 Delete type=2 #7
+2024/02/22-18:23:06.329 fb4 Manual compaction at level-1 from '\x00\x03\x01\x02\x010\x00G\x00l\x00o\x00b\x00a\x00l\x00!\x001\x00:\x009\x001\x008\x005\x007\x003\x007\x003\x002\x007\x008\x001\x00:\x00w\x00e\x00b\x00:\x00a\x005\x001\x00c\x006\x009\x002\x00b\x000\x002\x00f\x00b\x00e\x005\x005\x005\x00f\x001\x008\x007\x002\x004' @ 122 : 1 .. (end); will stop at (end)

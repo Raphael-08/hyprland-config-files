@@ -1,0 +1,6 @@
+2024/02/22-17:25:03.752 fb4 Reusing MANIFEST /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/22-17:25:03.753 fb4 Recovering log #3
+2024/02/22-17:25:03.762 fb4 Reusing old log /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2024/02/22-19:33:27.569 fb4 Level-0 table #5: started
+2024/02/22-19:33:27.585 fb4 Level-0 table #5: 3907684 bytes OK
+2024/02/22-19:33:27.592 fb4 Delete type=0 #3

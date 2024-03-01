@@ -1,0 +1,157 @@
+2024-03-01 18:47:49.007 [warning] Running on the desktop; workspaceId=9b39e438b0bc9c0d49fa66aa334b7474; storageUri=vscode-userdata:/home/mrv/.config/Code/User/globalStorage/github.remotehub
+2024-03-01 18:47:49.007 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-03-01 18:47:49.007 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms
+2024-03-01 18:47:56.592 [info] [    6] GitHub.ensureAuthenticated
+2024-03-01 18:48:44.100 [error] d
+Error: Cancelled
+2024-03-01 18:50:15.957 [warning] [    6] GitHub.ensureAuthenticated took 139366 ms
+2024-03-01 18:51:06.961 [warning] Running on the desktop; workspaceId=79bb59ffd0684f402561c6ff0cbf0e50; storageUri=vscode-userdata:/home/mrv/.config/Code/User/globalStorage/github.remotehub
+2024-03-01 18:51:06.961 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2024-03-01 18:51:06.961 [info] [    6] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/settings.json)
+2024-03-01 18:51:06.961 [info] [    8] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/tasks.json)
+2024-03-01 18:51:06.961 [info] [   10] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/launch.json)
+2024-03-01 18:51:06.961 [info] [    6] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/settings.json): Not found; no operations
+2024-03-01 18:51:06.961 [info] [    8] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/tasks.json): Not found; no operations
+2024-03-01 18:51:06.961 [info] [    6] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/settings.json) took 6 ms
+2024-03-01 18:51:06.961 [info] [   10] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/launch.json): Not found; no operations
+2024-03-01 18:51:06.961 [info] [    8] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/tasks.json) took 8 ms
+2024-03-01 18:51:06.961 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 26 ms
+2024-03-01 18:51:06.961 [info] [   10] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/.vscode/launch.json) took 8 ms
+2024-03-01 18:51:06.961 [info] [   24] GitHub.createMetadata(vscode-vfs://github/Raphael-08/test, undefined)
+2024-03-01 18:51:06.961 [info] [   25] GitHub.ensureAuthenticated
+2024-03-01 18:51:06.961 [info] [   26] GitHub.sync(vscode-vfs://github/Raphael-08/test, resolution=0, to=undefined)
+2024-03-01 18:51:06.961 [info] [   27] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=true, to=undefined)
+2024-03-01 18:51:06.961 [info] [   28] GitHub.sync(vscode-vfs://github/Raphael-08/test, resolution=0, to=undefined)
+2024-03-01 18:51:06.961 [info] [   29] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=true, to=undefined)
+2024-03-01 18:51:07.425 [warning] [   25] GitHub.ensureAuthenticated took 602 ms
+2024-03-01 18:51:08.598 [info] [   24] GitHub.createMetadata(vscode-vfs://github/Raphael-08/test, undefined) • Prefetching tree for f1cad17063b2f6d5338c425f8d1334aec980be92...
+2024-03-01 18:51:08.598 [info] [   31] GitHub.createFileTree(github://github/Raphael-08/test:f1cad17063b2f6d5338c425f8d1334aec980be92)
+2024-03-01 18:51:08.598 [info] [   32] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:undefined)
+2024-03-01 18:51:08.599 [info] [   33] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:)
+2024-03-01 18:51:08.601 [info] [   34] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:.vscode)
+2024-03-01 18:51:08.602 [info] [   31] GitHub.createFileTree(github://github/Raphael-08/test:f1cad17063b2f6d5338c425f8d1334aec980be92) took 1 ms
+2024-03-01 18:51:08.602 [warning] [   24] GitHub.createMetadata(vscode-vfs://github/Raphael-08/test, undefined) took 1774 ms • HEAD=f1cad17063b2f6d5338c425f8d1334aec980be92
+2024-03-01 18:51:09.071 [info] [   32] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:undefined): Tree=f1cad17063b2f6d5338c425f8d1334aec980be92; Tree query took 474 ms • Waiting for permissions...
+2024-03-01 18:51:09.072 [info] [   32] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:undefined) Permissions query took 0 ms • Filling trie...
+2024-03-01 18:51:09.072 [info] [   32] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:undefined) took 475 ms (Filling trie took 0 ms) • Tree=f1cad17063b2f6d5338c425f8d1334aec980be92
+2024-03-01 18:51:09.075 [info] [   60] FileTree.loadAllContent(f1cad17063b2f6d5338c425f8d1334aec980be92)
+2024-03-01 18:51:09.076 [info] [   61] TarPit.getTar(github/Raphael-08/test/f1cad17063b2f6d5338c425f8d1334aec980be92)
+2024-03-01 18:51:09.076 [info] [   61] TarPit.getTar(github/Raphael-08/test/f1cad17063b2f6d5338c425f8d1334aec980be92) • Getting .tar from memory...
+2024-03-01 18:51:09.076 [info] [   61] TarPit.getTar(github/Raphael-08/test/f1cad17063b2f6d5338c425f8d1334aec980be92): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-03-01 18:51:09.114 [info] [   33] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:): Tree=f1cad17063b2f6d5338c425f8d1334aec980be92; Tree query took 516 ms • Waiting for permissions...
+2024-03-01 18:51:09.115 [info] [   33] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:) Permissions query took 0 ms • Filling trie...
+2024-03-01 18:51:09.115 [warning] [   33] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:) took 517 ms (Filling trie took 0 ms) • Tree=f1cad17063b2f6d5338c425f8d1334aec980be92
+2024-03-01 18:51:09.116 [warning] [    1] Time to root directory took 2324 ms
+2024-03-01 18:51:09.127 [error] /home/mrv/.vscode/extensions/github.remotehub-0.62.0/dist/extension.js:160:26289
+HttpError: Not Found
+2024-03-01 18:51:09.127 [warning] [   34] FileTree.load(f1cad17063b2f6d5338c425f8d1334aec980be92:.vscode) took 529 ms (Tree query took 529 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-03-01 18:51:09.140 [info] [   61] TarPit.getTar(github/Raphael-08/test/f1cad17063b2f6d5338c425f8d1334aec980be92) took 64 ms (Getting .tar from disk took 64 ms) • Skipped download
+2024-03-01 18:51:09.140 [info] [   60] FileTree.loadAllContent(f1cad17063b2f6d5338c425f8d1334aec980be92) took 64 ms (Tar cache query took 64 ms) • No cached Tar
+2024-03-01 18:51:09.204 [warning] [   27] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=true, to=undefined) took 2379 ms • Up to date
+2024-03-01 18:51:09.205 [warning] [   26] GitHub.sync(vscode-vfs://github/Raphael-08/test, resolution=0, to=undefined) took 2380 ms • to=f1cad17063b2f6d5338c425f8d1334aec980be92
+2024-03-01 18:51:09.217 [warning] [   29] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=true, to=undefined) took 2392 ms • Up to date
+2024-03-01 18:51:09.217 [warning] [   28] GitHub.sync(vscode-vfs://github/Raphael-08/test, resolution=0, to=undefined) took 2392 ms • to=f1cad17063b2f6d5338c425f8d1334aec980be92
+2024-03-01 18:51:59.965 [info] [  144] ChangeStore.createFile(vscode-vfs://github/Raphael-08/test/another.txt) — 0
+2024-03-01 18:52:00.022 [info] [  144] ChangeStore.createFile(vscode-vfs://github/Raphael-08/test/another.txt) took 56 ms
+2024-03-01 18:52:00.056 [info] [  160] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:52:00.061 [info] [  160] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt) took 5 ms
+2024-03-01 18:52:06.811 [info] [  170] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:52:06.817 [info] [  171] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:52:06.817 [info] [  171] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:52:06.817 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:52:07.268 [info] [  170] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 456 ms • No changes detected
+2024-03-01 18:52:31.216 [info] [  175] ChangeStore.updateDirectoryEntries(vscode-vfs://github/Raphael-08/test) — 1
+2024-03-01 18:52:31.216 [info] [  175] ChangeStore.updateDirectoryEntries(vscode-vfs://github/Raphael-08/test) took 0 ms
+2024-03-01 18:52:41.066 [info] ChangeStore.stage(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:52:41.082 [info] [  193] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:52:41.084 [info] [  193] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt) took 1 ms
+2024-03-01 18:52:52.493 [info] [  202] ChangeStore.updateDirectoryEntries(vscode-vfs://github/Raphael-08/test) — 1
+2024-03-01 18:52:52.493 [info] [  202] ChangeStore.updateDirectoryEntries(vscode-vfs://github/Raphael-08/test) took 0 ms
+2024-03-01 18:53:03.951 [info] [  207] ChangeStore.writeFile(vscode-vfs://github/Raphael-08/test/another.txt) — 7, undefined
+2024-03-01 18:53:03.952 [info] [  209] ChangeStore.writeFileCore(vscode-vfs://github/Raphael-08/test/another.txt) — 7, undefined
+2024-03-01 18:53:03.977 [info] [  209] ChangeStore.writeFileCore(vscode-vfs://github/Raphael-08/test/another.txt) took 25 ms
+2024-03-01 18:53:03.978 [info] [  207] ChangeStore.writeFile(vscode-vfs://github/Raphael-08/test/another.txt) took 26 ms
+2024-03-01 18:53:04.023 [info] [  226] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:53:04.025 [info] [  226] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt) took 2 ms
+2024-03-01 18:53:06.820 [info] [  231] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:53:06.821 [info] [  231] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:53:06.821 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:53:07.269 [info] [  232] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:53:07.787 [warning] [  232] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 517 ms • No changes detected
+2024-03-01 18:53:08.657 [info] ChangeStore.stage(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:53:08.677 [info] [  249] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:53:08.682 [info] [  249] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt) took 4 ms
+2024-03-01 18:53:30.407 [info] [  257] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt)
+2024-03-01 18:53:30.407 [info] [  259] GitHub.createAndPushCommit(vscode-vfs://github/Raphael-08/test)
+2024-03-01 18:53:30.409 [info] [  257] ChangeStore.readFile(vscode-vfs://github/Raphael-08/test/another.txt) took 2 ms
+2024-03-01 18:53:31.134 [info] Fast forward to 6d768fef60fd4a953333c38b5c0758303d0e2acf; rootUri=vscode-vfs://github/Raphael-08/test
+2024-03-01 18:53:31.136 [info] [  263] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:53:31.142 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github/Raphael-08/test)
+2024-03-01 18:53:31.142 [info] GitHubFS.onRefreshOrRepositoryChanged(github://github/Raphael-08/test)
+2024-03-01 18:53:31.255 [info] [  287] GitHub.createFileTree(github://github/Raphael-08/test:6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:53:31.255 [info] [  288] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:undefined)
+2024-03-01 18:53:31.256 [info] [  289] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:)
+2024-03-01 18:53:31.256 [info] [  290] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:.vscode)
+2024-03-01 18:53:31.256 [info] [  287] GitHub.createFileTree(github://github/Raphael-08/test:6d768fef60fd4a953333c38b5c0758303d0e2acf) took 0 ms
+2024-03-01 18:53:31.645 [warning] [  263] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=6d768fef60fd4a953333c38b5c0758303d0e2acf) took 509 ms • Up to date
+2024-03-01 18:53:31.645 [warning] [  259] GitHub.createAndPushCommit(vscode-vfs://github/Raphael-08/test): Created and pushed commit 6d768fef60fd4a953333c38b5c0758303d0e2acf took 1238 ms
+2024-03-01 18:53:31.646 [info] ChangeStore.acceptAll(vscode-vfs://github/Raphael-08/test, auto)
+2024-03-01 18:53:31.707 [info] [  289] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:): Tree=6d768fef60fd4a953333c38b5c0758303d0e2acf; Tree query took 451 ms • Waiting for permissions...
+2024-03-01 18:53:31.707 [info] [  289] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:) Permissions query took 0 ms • Filling trie...
+2024-03-01 18:53:31.707 [info] [  289] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:) took 451 ms (Filling trie took 0 ms) • Tree=6d768fef60fd4a953333c38b5c0758303d0e2acf
+2024-03-01 18:53:31.709 [info] [  318] getFileContents
+2024-03-01 18:53:31.710 [info] [  319] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:53:31.710 [info] [  319] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) • Getting .tar from memory...
+2024-03-01 18:53:31.710 [info] [  319] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-03-01 18:53:31.717 [info] [  319] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) took 6 ms (Getting .tar from disk took 6 ms) • Skipped download
+2024-03-01 18:53:31.717 [info] [  288] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:undefined): Tree=6d768fef60fd4a953333c38b5c0758303d0e2acf; Tree query took 461 ms • Waiting for permissions...
+2024-03-01 18:53:31.717 [info] [  288] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:undefined) Permissions query took 0 ms • Filling trie...
+2024-03-01 18:53:31.717 [info] [  288] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:undefined) took 461 ms (Filling trie took 0 ms) • Tree=6d768fef60fd4a953333c38b5c0758303d0e2acf
+2024-03-01 18:53:31.717 [error] /home/mrv/.vscode/extensions/github.remotehub-0.62.0/dist/extension.js:160:26289
+HttpError: Not Found
+2024-03-01 18:53:31.717 [info] [  290] FileTree.load(6d768fef60fd4a953333c38b5c0758303d0e2acf:.vscode) took 462 ms (Tree query took 462 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2024-03-01 18:53:31.720 [info] [  324] FileTree.loadAllContent(6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:53:31.720 [info] [  325] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:53:31.720 [info] [  325] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) • Getting .tar from memory...
+2024-03-01 18:53:31.720 [info] [  325] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-03-01 18:53:31.722 [info] [  325] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) took 1 ms (Getting .tar from disk took 1 ms) • Skipped download
+2024-03-01 18:53:31.722 [info] [  324] FileTree.loadAllContent(6d768fef60fd4a953333c38b5c0758303d0e2acf) took 2 ms (Tar cache query took 2 ms) • No cached Tar
+2024-03-01 18:53:32.159 [info] [  318] getFileContentsRetrieved another.txt from web took 449 ms
+2024-03-01 18:54:06.826 [info] [  337] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:54:06.827 [info] [  337] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:54:06.827 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:54:07.788 [info] [  338] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:54:08.279 [info] [  338] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 491 ms • Up to date
+2024-03-01 18:55:06.832 [info] [  369] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:55:06.832 [info] [  369] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:55:06.832 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:55:08.284 [info] [  370] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:55:08.826 [warning] [  370] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 542 ms • No changes detected
+2024-03-01 18:56:06.833 [info] [  371] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:56:06.834 [info] [  371] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:56:06.834 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:56:08.828 [info] [  372] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:56:09.342 [warning] [  372] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 513 ms • No changes detected
+2024-03-01 18:56:13.808 [info] [  375] getFileContents
+2024-03-01 18:56:13.809 [info] [  376] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:56:13.809 [info] [  376] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) • Getting .tar from memory...
+2024-03-01 18:56:13.809 [info] [  376] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-03-01 18:56:13.816 [info] [  376] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) took 6 ms (Getting .tar from disk took 6 ms) • Skipped download
+2024-03-01 18:56:14.264 [info] [  375] getFileContentsRetrieved another.txt from web took 456 ms
+2024-03-01 18:56:38.834 [info] [  386] getFileContents
+2024-03-01 18:56:38.834 [info] [  387] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf)
+2024-03-01 18:56:38.835 [info] [  387] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) • Getting .tar from memory...
+2024-03-01 18:56:38.835 [info] [  387] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2024-03-01 18:56:38.841 [info] [  387] TarPit.getTar(github/Raphael-08/test/6d768fef60fd4a953333c38b5c0758303d0e2acf) took 6 ms (Getting .tar from disk took 6 ms) • Skipped download
+2024-03-01 18:56:39.272 [info] [  386] getFileContentsRetrieved test.txt from web took 437 ms
+2024-03-01 18:57:06.837 [info] [  391] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:57:06.837 [info] [  391] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2024-03-01 18:57:06.838 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2024-03-01 18:57:09.344 [info] [  392] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined)
+2024-03-01 18:57:09.860 [warning] [  392] GitHub.fetch(vscode-vfs://github/Raphael-08/test, force=undefined, to=undefined) took 516 ms • No changes detected

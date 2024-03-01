@@ -1,0 +1,130 @@
+2024-02-29 18:30:44.091 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-02-29 18:32:58.820 [info] Getting Manifest... ms-python.debugpy
+2024-02-29 18:32:58.861 [info] Installing extension: ms-python.debugpy
+2024-02-29 18:32:59.584 [info] Getting Manifest... ms-python.python
+2024-02-29 18:33:00.081 [info] Installing extension: ms-python.python
+2024-02-29 18:33:00.195 [warning] Extension signature verification failed with error 'UnknownError': ms-python.debugpy
+2024-02-29 18:33:00.341 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64: ms-python.debugpy
+2024-02-29 18:33:00.355 [info] Renamed to /home/mrv/.vscode/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-02-29 18:33:00.358 [info] Extracting extension completed. ms-python.debugpy
+2024-02-29 18:33:00.362 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-29 18:33:00.382 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:00.385 [info] Extension installed successfully: ms-python.debugpy
+2024-02-29 18:33:00.390 [info] Marked extension as uninstalled ms-python.debugpy-2024.0.0-linux-x64
+2024-02-29 18:33:00.408 [info] Installing extension: ms-python.vscode-pylance
+2024-02-29 18:33:01.228 [info] Getting Manifest... pkief.material-icon-theme
+2024-02-29 18:33:01.287 [info] Getting Manifest... ms-python.python
+2024-02-29 18:33:01.288 [info] Installing extension: pkief.material-icon-theme
+2024-02-29 18:33:01.357 [info] Waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-02-29 18:33:01.952 [info] Getting Manifest... ms-toolsai.jupyter
+2024-02-29 18:33:01.993 [info] Installing extension: ms-toolsai.jupyter
+2024-02-29 18:33:02.067 [warning] Extension signature verification failed with error 'UnknownError': pkief.material-icon-theme
+2024-02-29 18:33:02.295 [info] Extracted extension to file:///home/mrv/.vscode/extensions/pkief.material-icon-theme-4.34.0: pkief.material-icon-theme
+2024-02-29 18:33:02.308 [info] Renamed to /home/mrv/.vscode/extensions/pkief.material-icon-theme-4.34.0
+2024-02-29 18:33:02.309 [info] Extracting extension completed. pkief.material-icon-theme
+2024-02-29 18:33:02.317 [info] Extension installed successfully: pkief.material-icon-theme
+2024-02-29 18:33:02.320 [info] Marked extension as uninstalled pkief.material-icon-theme-4.33.0
+2024-02-29 18:33:02.391 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:02.645 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-02-29 18:33:02.680 [info] Installing extension: catppuccin.catppuccin-vsc
+2024-02-29 18:33:03.536 [warning] Extension signature verification failed with error 'UnknownError': catppuccin.catppuccin-vsc
+2024-02-29 18:33:03.546 [info] Extracted extension to file:///home/mrv/.vscode/extensions/catppuccin.catppuccin-vsc-3.11.2: catppuccin.catppuccin-vsc
+2024-02-29 18:33:03.552 [info] Renamed to /home/mrv/.vscode/extensions/catppuccin.catppuccin-vsc-3.11.2
+2024-02-29 18:33:03.554 [info] Extracting extension completed. catppuccin.catppuccin-vsc
+2024-02-29 18:33:03.572 [info] Extension installed successfully: catppuccin.catppuccin-vsc
+2024-02-29 18:33:03.581 [info] Marked extension as uninstalled catppuccin.catppuccin-vsc-3.11.0
+2024-02-29 18:33:03.638 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:03.920 [info] Getting Manifest... ms-vscode.cpptools
+2024-02-29 18:33:03.977 [info] Installing extension: ms-vscode.cpptools
+2024-02-29 18:33:04.411 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2024-02-29 18:33:04.713 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-toolsai.jupyter-2024.1.1-linux-x64: ms-toolsai.jupyter
+2024-02-29 18:33:04.728 [info] Renamed to /home/mrv/.vscode/extensions/ms-toolsai.jupyter-2024.1.1-linux-x64
+2024-02-29 18:33:04.730 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-02-29 18:33:04.745 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-02-29 18:33:04.750 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.1.0-linux-x64
+2024-02-29 18:33:04.812 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:09.568 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-02-29 18:33:10.289 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-python.python-2024.2.0: ms-python.python
+2024-02-29 18:33:10.304 [info] Renamed to /home/mrv/.vscode/extensions/ms-python.python-2024.2.0
+2024-02-29 18:33:10.311 [info] Extracting extension completed. ms-python.python
+2024-02-29 18:33:10.327 [info] Extension installed successfully: ms-python.python
+2024-02-29 18:33:10.328 [info] Finished waiting for already requested installing extension ms-python.python ms-python.vscode-pylance
+2024-02-29 18:33:10.336 [info] Marked extension as uninstalled ms-python.python-2024.0.0
+2024-02-29 18:33:10.400 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:12.460 [warning] Extension signature verification failed with error 'UnknownError': ms-python.vscode-pylance
+2024-02-29 18:33:13.899 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-02-29 18:33:13.905 [info] Renamed to /home/mrv/.vscode/extensions/ms-python.vscode-pylance-2024.2.2
+2024-02-29 18:33:13.907 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-29 18:33:13.914 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-29 18:33:13.917 [info] Marked extension as uninstalled ms-python.vscode-pylance-2023.12.1
+2024-02-29 18:33:13.993 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:27.073 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.cpptools
+2024-02-29 18:33:28.500 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-vscode.cpptools-1.19.4-linux-x64: ms-vscode.cpptools
+2024-02-29 18:33:28.507 [info] Renamed to /home/mrv/.vscode/extensions/ms-vscode.cpptools-1.19.4-linux-x64
+2024-02-29 18:33:28.511 [info] Extracting extension completed. ms-vscode.cpptools
+2024-02-29 18:33:28.523 [info] Extension installed successfully: ms-vscode.cpptools
+2024-02-29 18:33:28.529 [info] Marked extension as uninstalled ms-vscode.cpptools-1.18.5-linux-x64
+2024-02-29 18:33:28.596 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-29 18:33:55.945 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)

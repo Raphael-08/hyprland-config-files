@@ -1,0 +1,21 @@
+2024/02/29-18:34:27.801 4 Reusing MANIFEST /home/mrv/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/02/29-18:34:27.801 4 Recovering log #45
+2024/02/29-18:34:27.801 4 Reusing old log /home/mrv/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000045.log 
+2024/02/29-19:36:47.038 6 Level-0 table #49: started
+2024/02/29-19:36:47.050 6 Level-0 table #49: 58095 bytes OK
+2024/02/29-19:36:47.052 6 Delete type=0 #45
+2024/02/29-19:37:31.644 6 Level-0 table #51: started
+2024/02/29-19:37:31.653 6 Level-0 table #51: 46785 bytes OK
+2024/02/29-19:37:31.655 6 Delete type=0 #48
+2024/02/29-19:37:31.656 6 Compacting 4@0 + 1@1 files
+2024/02/29-19:37:31.659 6 Generated table #52@0: 1739 keys, 79116 bytes
+2024/02/29-19:37:31.659 6 Compacted 4@0 + 1@1 files => 79116 bytes
+2024/02/29-19:37:31.660 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/29-19:37:31.660 6 Delete type=2 #49
+2024/02/29-19:37:31.660 6 Delete type=2 #46
+2024/02/29-19:37:31.660 6 Delete type=2 #43
+2024/02/29-19:37:31.660 6 Delete type=2 #51
+2024/02/29-19:37:31.660 6 Delete type=2 #41
+2024/02/29-19:46:05.066 4 Level-0 table #54: started
+2024/02/29-19:46:05.074 4 Level-0 table #54: 143252 bytes OK
+2024/02/29-19:46:05.077 4 Delete type=0 #50

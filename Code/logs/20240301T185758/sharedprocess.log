@@ -1,0 +1,38 @@
+2024-03-01 18:58:01.799 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-01 18:58:02.147 [info] Deleted uninstalled extension from disk ms-python.python /home/mrv/.vscode/extensions/ms-python.python-2024.2.0
+2024-03-01 18:59:40.880 [info] Getting Manifest... ms-toolsai.jupyter
+2024-03-01 18:59:40.921 [info] Installing extension: ms-toolsai.jupyter
+2024-03-01 18:59:42.987 [warning] Extension signature verification failed with error 'UnknownError': ms-toolsai.jupyter
+2024-03-01 18:59:43.129 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64: ms-toolsai.jupyter
+2024-03-01 18:59:43.140 [info] Renamed to /home/mrv/.vscode/extensions/ms-toolsai.jupyter-2024.2.0-linux-x64
+2024-03-01 18:59:43.145 [info] Extracting extension completed. ms-toolsai.jupyter
+2024-03-01 18:59:43.160 [info] Extension installed successfully: ms-toolsai.jupyter
+2024-03-01 18:59:43.166 [info] Marked extension as uninstalled ms-toolsai.jupyter-2024.1.1-linux-x64
+2024-03-01 18:59:43.171 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30083)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30198)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36634)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29080)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16226)
+    at async X.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:107729)
+2024-03-01 19:07:31.719 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4960)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at y.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.fe (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30382)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)

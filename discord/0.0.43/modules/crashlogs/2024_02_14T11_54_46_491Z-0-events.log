@@ -1,0 +1,31 @@
+2024-02-14T11:54:46.506Z 0: 
+
+----------------------------------------------
+2024-02-14T11:54:46.516Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.43"}, modulepath: /home/mrv/.config/discord/0.0.43/modules
+2024-02-14T11:54:46.520Z 2: ✅ webContents.created web1 ""
+2024-02-14T11:54:46.524Z 3: ✅ window.created win1 "discord"
+2024-02-14T11:54:47.608Z 4: ✅ webContents.did-finish-load web1
+2024-02-14T11:55:01.715Z 5: ✅ webContents.created web2 ""
+2024-02-14T11:55:01.719Z 6: ✅ window.created win2 "Discord"
+2024-02-14T11:55:04.108Z 7: ✅ webContents.did-finish-load web2
+2024-02-14T11:55:04.207Z 8: window.close win1
+2024-02-14T11:55:04.291Z 9: webContents.destroyed web1
+2024-02-14T11:55:04.295Z 10: window.closed win1
+2024-02-14T11:58:44.746Z 11: window.close win2
+2024-02-14T11:59:02.305Z 12: before-quit
+2024-02-14T11:59:02.315Z 13: window.close win2
+2024-02-14T11:59:02.342Z 14: webContents.destroyed web2
+2024-02-29T13:09:18.869Z 0: 
+
+----------------------------------------------
+2024-02-29T13:09:18.885Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.43"}, modulepath: /home/mrv/.config/discord/0.0.43/modules
+2024-02-29T13:09:18.890Z 2: ✅ webContents.created web1 ""
+2024-02-29T13:09:18.894Z 3: ✅ window.created win1 "discord"
+2024-02-29T13:09:19.138Z 4: ✅ webContents.did-finish-load web1
+2024-02-29T13:09:19.903Z 5: ✅ webContents.created web2 ""
+2024-02-29T13:09:19.908Z 6: ✅ window.created win2 "Discord"
+2024-02-29T13:09:22.314Z 7: ✅ webContents.did-finish-load web2
+2024-02-29T13:09:22.414Z 8: window.close win1
+2024-02-29T13:09:22.421Z 9: webContents.destroyed web1
+2024-02-29T13:09:22.425Z 10: window.closed win1
+2024-02-29T14:05:04.685Z 11: window.close win2

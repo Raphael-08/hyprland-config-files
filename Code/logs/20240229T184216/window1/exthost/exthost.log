@@ -1,0 +1,19 @@
+2024-02-29 18:42:17.670 [info] Extension host with pid 43622 started
+2024-02-29 18:42:17.670 [info] Skipping acquiring lock for /home/mrv/.config/Code/User/workspaceStorage/96a2133402c3792dd6499d60bb3d4833.
+2024-02-29 18:42:17.717 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-29 18:42:17.733 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-29 18:42:17.737 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-29 18:42:17.748 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-29 18:42:17.764 [info] Eager extensions activated
+2024-02-29 18:42:17.784 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.785 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.788 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.790 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.814 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.825 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:17.828 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-29 18:42:18.413 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-02-29 18:42:18.415 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-02-29 18:42:18.425 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-02-29 18:42:23.676 [info] Extension host terminating: renderer closed the MessagePort
+2024-02-29 18:42:23.680 [info] Extension host with pid 43622 exiting with code 0

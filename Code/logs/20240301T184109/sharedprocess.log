@@ -1,0 +1,108 @@
+2024-03-01 18:41:11.159 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-01 18:41:17.634 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-01 18:41:52.938 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-01 18:47:44.443 [info] Getting Manifest... ms-vscode.remote-repositories
+2024-03-01 18:47:44.456 [info] Installing extension: ms-vscode.remote-repositories
+2024-03-01 18:47:45.431 [info] Getting Manifest... github.remotehub
+2024-03-01 18:47:45.946 [info] Getting Manifest... ms-vscode.azure-repos
+2024-03-01 18:47:46.036 [info] Installing extension: github.remotehub ms-vscode.remote-repositories
+2024-03-01 18:47:46.037 [info] Installing extension: ms-vscode.azure-repos ms-vscode.remote-repositories
+2024-03-01 18:47:47.398 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.remote-repositories
+2024-03-01 18:47:47.436 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-vscode.remote-repositories-0.40.0: ms-vscode.remote-repositories
+2024-03-01 18:47:47.438 [info] Renamed to /home/mrv/.vscode/extensions/ms-vscode.remote-repositories-0.40.0
+2024-03-01 18:47:47.442 [info] Extracting extension completed. ms-vscode.remote-repositories
+2024-03-01 18:47:47.523 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-03-01 18:47:48.473 [warning] Extension signature verification failed with error 'UnknownError': ms-vscode.azure-repos
+2024-03-01 18:47:48.519 [warning] Extension signature verification failed with error 'UnknownError': github.remotehub
+2024-03-01 18:47:48.544 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-vscode.azure-repos-0.38.0: ms-vscode.azure-repos
+2024-03-01 18:47:48.546 [info] Renamed to /home/mrv/.vscode/extensions/ms-vscode.azure-repos-0.38.0
+2024-03-01 18:47:48.547 [info] Extracting extension completed. ms-vscode.azure-repos
+2024-03-01 18:47:48.555 [info] Extracted extension to file:///home/mrv/.vscode/extensions/github.remotehub-0.62.0: github.remotehub
+2024-03-01 18:47:48.556 [info] Renamed to /home/mrv/.vscode/extensions/github.remotehub-0.62.0
+2024-03-01 18:47:48.558 [info] Extracting extension completed. github.remotehub
+2024-03-01 18:47:48.565 [info] Extension installed successfully: ms-vscode.remote-repositories
+2024-03-01 18:47:48.565 [info] Extension installed successfully: ms-vscode.azure-repos
+2024-03-01 18:47:48.565 [info] Extension installed successfully: github.remotehub
+2024-03-01 18:47:48.627 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-03-01 18:48:17.262 [info] Getting Manifest... ms-python.python
+2024-03-01 18:48:17.300 [info] Installing extension: ms-python.python
+2024-03-01 18:48:21.470 [warning] Extension signature verification failed with error 'UnknownError': ms-python.python
+2024-03-01 18:48:22.187 [info] Extracted extension to file:///home/mrv/.vscode/extensions/ms-python.python-2024.2.1: ms-python.python
+2024-03-01 18:48:22.203 [info] Renamed to /home/mrv/.vscode/extensions/ms-python.python-2024.2.1
+2024-03-01 18:48:22.206 [info] Extracting extension completed. ms-python.python
+2024-03-01 18:48:22.220 [info] Extension installed successfully: ms-python.python
+2024-03-01 18:48:22.226 [info] Marked extension as uninstalled ms-python.python-2024.2.0
+2024-03-01 18:48:22.293 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-03-01 18:51:07.047 [error] [uncaught exception in sharedProcess]: Event not found: onDidChange: CodeExpectedError: Event not found: onDidChange
+    at Object.listen (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:45:4959)
+    at E.t (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:44:251)
+    at E.q (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:4371)
+    at w.value (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:43:3602)
+    at d.y (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1902)
+    at d.z (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:1972)
+    at d.fire (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:38:2188)
+    at MessagePortMain.de (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:36:30422)
+    at MessagePortMain.emit (node:events:514:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-01 18:55:57.663 [info] Getting Manifest... pomber.git-file-history
+2024-03-01 18:55:57.668 [info] Installing extension: pomber.git-file-history
+2024-03-01 18:56:05.340 [warning] Extension signature verification failed with error 'UnknownError': pomber.git-file-history
+2024-03-01 18:56:05.739 [info] Extracted extension to file:///home/mrv/.vscode/extensions/pomber.git-file-history-1.0.1: pomber.git-file-history
+2024-03-01 18:56:05.745 [info] Renamed to /home/mrv/.vscode/extensions/pomber.git-file-history-1.0.1
+2024-03-01 18:56:05.746 [info] Extracting extension completed. pomber.git-file-history
+2024-03-01 18:56:05.753 [info] Extension installed successfully: pomber.git-file-history
+2024-03-01 18:56:05.828 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/mrv/.vscode/extensions/extensions.json.vsctmp'
+    at r.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

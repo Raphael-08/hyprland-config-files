@@ -1,0 +1,27 @@
+2024-03-01 18:41:17.386 [info] Started local extension host with pid 13473.
+2024-03-01 18:41:20.135 [info] [perf] Render performance baseline is 24ms
+2024-03-01 18:41:52.666 [info] Started local extension host with pid 13673.
+2024-03-01 18:41:55.473 [info] [perf] Render performance baseline is 22ms
+2024-03-01 18:50:15.947 [info] Settings Sync: Updating due to change in sessions
+2024-03-01 18:51:04.609 [warning] Ignoring the error while validating workspace folder vscode-vfs://github/Raphael-08/test - ENOPRO: No file system provider found for resource 'vscode-vfs://github/Raphael-08/test'
+2024-03-01 18:51:05.272 [info] Started local extension host with pid 65577.
+2024-03-01 18:51:07.973 [error] ENOENT: no such file or directory, scandir '/Raphael-08/test': Error: ENOENT: no such file or directory, scandir '/Raphael-08/test'
+2024-03-01 18:51:12.839 [info] [perf] Render performance baseline is 43ms
+2024-03-01 18:54:57.713 [error] Cancelled: Canceled
+    at re.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:32466)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:29361)
+    at async re.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:30301)
+    at async ne (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28369)
+    at async re.query (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:782:28590)
+    at async oe.queryGallery (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2741:11958)
+    at async de.Ac (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:22427)
+    at async de.lc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:14478)
+    at async vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2677:12777
+2024-03-01 18:56:20.098 [error] [Extension Host] Error: spawn git ENOENT
+	at Process.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-01 18:56:45.846 [error] [Extension Host] Error: spawn git ENOENT
+	at Process.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)

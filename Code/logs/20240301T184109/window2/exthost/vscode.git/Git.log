@@ -1,0 +1,21 @@
+2024-03-01 18:41:17.695 [info] Log level: Info
+2024-03-01 18:41:17.695 [info] Validating found git in: "git"
+2024-03-01 18:41:17.695 [info] Using git "2.44.0" from "git"
+2024-03-01 18:41:53.001 [info] Log level: Info
+2024-03-01 18:41:53.001 [info] Validating found git in: "git"
+2024-03-01 18:41:53.001 [info] Using git "2.44.0" from "git"
+2024-03-01 18:41:53.001 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-01 18:41:53.001 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-01 18:41:53.087 [info] > git rev-parse --show-toplevel [1ms]
+2024-03-01 18:41:53.087 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-01 18:47:48.636 [info] > git rev-parse --show-toplevel [0ms]
+2024-03-01 18:47:48.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-01 18:47:48.674 [info] > git rev-parse --show-toplevel [0ms]
+2024-03-01 18:47:48.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-03-01 18:51:07.137 [info] Log level: Info
+2024-03-01 18:51:07.137 [info] Validating found git in: "git"
+2024-03-01 18:51:07.137 [info] Using git "2.44.0" from "git"
+2024-03-01 18:51:07.137 [warning] Failed to get repository realpath for: "/Raphael-08/test". Error: ENOENT: no such file or directory, realpath '/Raphael-08/test'
+2024-03-01 18:51:07.221 [warning] Failed to get repository realpath for: "/Raphael-08/test". Error: ENOENT: no such file or directory, realpath '/Raphael-08/test'
+2024-03-01 18:51:07.567 [warning] Failed to get repository realpath for: "/Raphael-08/test". Error: ENOENT: no such file or directory, realpath '/Raphael-08/test'
+2024-03-01 18:52:36.701 [warning] Failed to get repository realpath for: "/Raphael-08/test". Error: ENOENT: no such file or directory, realpath '/Raphael-08/test'

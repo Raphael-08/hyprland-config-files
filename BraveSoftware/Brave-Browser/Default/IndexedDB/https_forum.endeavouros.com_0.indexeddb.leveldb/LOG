@@ -1,0 +1,6 @@
+2024/02/18-15:28:56.560 80b Creating DB /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb since it was missing.
+2024/02/18-15:28:56.563 80b Reusing MANIFEST /home/mrv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.endeavouros.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/18-15:29:34.063 80c Level-0 table #5: started
+2024/02/18-15:29:34.067 80c Level-0 table #5: 58170 bytes OK
+2024/02/18-15:29:34.069 80c Delete type=0 #3
+2024/02/18-15:29:34.070 80c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

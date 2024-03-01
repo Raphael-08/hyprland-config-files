@@ -1,0 +1,6 @@
+2024/02/14-17:24:46.473 4ee7 Reusing MANIFEST /home/mrv/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/02/14-17:24:46.474 4ee7 Recovering log #32
+2024/02/14-17:24:46.474 4ee7 Reusing old log /home/mrv/.config/discord/Local Storage/leveldb/000032.log 
+2024/02/14-17:27:32.274 51bc Level-0 table #35: started
+2024/02/14-17:27:32.298 51bc Level-0 table #35: 739429 bytes OK
+2024/02/14-17:27:32.299 51bc Delete type=0 #32

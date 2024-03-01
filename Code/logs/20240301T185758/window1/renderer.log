@@ -1,0 +1,14 @@
+2024-03-01 18:57:59.562 [warning] Ignoring the error while validating workspace folder vscode-vfs://github/Raphael-08/test - ENOPRO: No file system provider found for resource 'vscode-vfs://github/Raphael-08/test'
+2024-03-01 18:57:59.835 [info] Started local extension host with pid 105665.
+2024-03-01 18:58:01.258 [error] ENOENT: no such file or directory, scandir '/Raphael-08/test': Error: ENOENT: no such file or directory, scandir '/Raphael-08/test'
+2024-03-01 18:58:04.649 [info] [perf] Render performance baseline is 33ms
+2024-03-01 18:59:26.854 [error] [Extension Host] Error: spawn git ENOENT
+	at Process.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-01 19:00:22.670 [error] [Extension Host] Error: spawn git ENOENT
+	at Process.onexit (node:internal/child_process:283:19)
+	at onErrorNT (node:internal/child_process:476:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-01 19:07:31.088 [info] Started local extension host with pid 106868.
+2024-03-01 19:07:33.994 [info] [perf] Render performance baseline is 25ms

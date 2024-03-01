@@ -1,0 +1,42 @@
+2024-03-01 18:58:00.078 [info] Extension host with pid 105665 started
+2024-03-01 18:58:00.078 [info] Skipping acquiring lock for /home/mrv/.config/Code/User/workspaceStorage/79bb59ffd0684f402561c6ff0cbf0e50.
+2024-03-01 18:58:00.081 [info] ExtensionService#_doActivateExtension ms-vscode.remote-repositories, startup: false, activationEvent: 'onFileSystem:vscode-vfs'
+2024-03-01 18:58:00.128 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 18:58:00.130 [info] ExtensionService#_doActivateExtension GitHub.remotehub, startup: false, activationEvent: 'api', root cause: ms-vscode.remote-repositories
+2024-03-01 18:58:00.177 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 18:58:00.218 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-01 18:58:00.251 [info] Eager extensions activated
+2024-03-01 18:58:00.262 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:58:00.275 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:58:00.277 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:58:00.317 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 18:58:01.255 [error] Error: ENOENT: no such file or directory, scandir '/Raphael-08/test'
+2024-03-01 18:58:02.510 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 18:59:26.690 [info] ExtensionService#_doActivateExtension pomber.git-file-history, startup: false, activationEvent: 'onCommand:extension.git-file-history'
+2024-03-01 19:07:30.576 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-01 19:07:30.579 [info] Extension host with pid 105665 exiting with code 0
+2024-03-01 19:07:31.337 [info] Extension host with pid 106868 started
+2024-03-01 19:07:31.337 [info] Skipping acquiring lock for /home/mrv/.config/Code/User/workspaceStorage/2f23ef768657bc7cdb99e60739d01933.
+2024-03-01 19:07:31.441 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-01 19:07:31.476 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-01 19:07:31.486 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-01 19:07:31.499 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-01 19:07:31.530 [info] Eager extensions activated
+2024-03-01 19:07:31.552 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.553 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.556 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.557 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.573 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.587 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:07:31.590 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-03-01 19:08:43.585 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:08:43.877 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:08:45.249 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:08:50.341 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:08:55.430 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:02.925 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:08.008 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:31.304 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:32.171 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:34.412 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
+2024-03-01 19:09:35.868 [warning] [Decorations] CAPPING events from decorations provider vscode.git 7210
