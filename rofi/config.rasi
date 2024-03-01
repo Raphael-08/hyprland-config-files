@@ -266,7 +266,7 @@ configuration {
 }
 
 /* ---- Load pywal colors ---- */
-@theme "~/.cache/wal/colors-rofi-dark.rasi"
+@import "~/.config/rofi/pywal-color/pywal-theme.rasi"
 
 /* ---- Global Properties ---- */
 * {
